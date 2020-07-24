@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Paulo <img src="https://github.com/sw9brl/sw9brl/blob/master/myAvatar.png" width="40px" height="35x">
+### Hi there 👋, I'm Paulo <img src="https://github.com/sw9brl/sw9brl/blob/master/myAvatar.png" width="40px" height="30x">
 
 <!--
 **sw9brl/sw9brl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
