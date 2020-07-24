@@ -1,4 +1,4 @@
-<img src=https://github.com/sw9brl/sw9brl/blob/master/myAvatar.png"">
+<img src="https://github.com/sw9brl/sw9brl/blob/master/myAvatar.png">
 
 ### Hi there 👋
 
