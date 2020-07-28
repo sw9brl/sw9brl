@@ -1,19 +1,20 @@
 
-# Hi there 👋, I'm Paulo
+## Hi there 👋, I'm Paulo
 
- <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face.png" align="left" width="100px" height="200x">
+ <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face.png" align="left" width="200px" height="350x">
 
-<!--
-**sw9brl/sw9brl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Bachelor of Computer Engineering</h3>
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/+sw9brl)
+[<img src="https://img.shields.io/badge/blog-%23239120.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](http://blog.sw9.com.br)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedecamargo/?locale=en_US)
+[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5519993481780?text=Hi!Paulo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning and teaching things about web development
+- 📚 I’m currently learning more about GCP - Google Cloud Platform, Microservices and Architecture
+- 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
+- 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
+
+
+- I 💗 my Job
+
