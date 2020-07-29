@@ -19,4 +19,19 @@
 
 - I 💗 my Job
 
+<br>
+<br>
+<br>
 
+## Tech Skills
+
+
+| Frameworks      | Languages     | Others         | 
+| --------------  | ------------- | -------------  | 
+| Strapi          | Javascript    | HTML5          | 
+| Laravel         | NodeJs        | CSS            | 
+| Zend Framework  | PHP           | Google Firebase| 
+| Express         | C#			         |				   
+| Restfy          | F#  		        |					  
+| Adonis          | VB			         |				   
+| Angular         |								  
