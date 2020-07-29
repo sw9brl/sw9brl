@@ -1,8 +1,8 @@
 
 ## Hi there 👋, I'm Paulo From Brazil 🧑‍✈️
 
- <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-right.png" align="left" width="200px" height="350x">
- <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-left.png" align="right" width="200px" height="350x">
+ <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-right.png" align="left" width="150px" height="350x">
+ <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-left.png" align="right" width="150px" height="350x">
 
 <h3>Bachelor of Computer Engineering</h3>
 
@@ -69,6 +69,53 @@
 |Detalist|
 
 </td></tr> </table>
+
+
+<table>
+ <tr><th> Tech Skills </th></tr>
+<tr><td>
+
+| Frameworks      | Languages     | Others         |   IDE            |    Architecture & DevOps   |
+| --------------  | ------------- | -------------  |   -------------  |    -------------           |
+| Strapi          | Javascript    | HTML5          |   Cloud 9        |    Docker                  |
+| Laravel         | NodeJs        | CSS            |   Visual Studio  |    Kubernets               |
+| Zend Framework  | PHP           | Google Firebase|   Vscode         |    Microservices           |
+| Express         | C#			  |	Wordpress	   |   Atom           |    Serveless               |
+| Restfy          | F#  		  |	Magento	       |   Zend Studio    |    CI/CD                   |
+| Adonis          | VB			  |	Git	           |   Web Storm      |    IIS                     |
+| Angular         |		          |  Svn           |                  |    Apache                  |
+|                 |               |  TFS           |                  |                            |
+
+
+|  SO             | Tools        | Cloud |
+|  -------------  | -------------  | --------- |
+|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  | GCP - Google Cloud Platform |
+| Linux           | Sharepoint            | Apigee API Proxy |
+|                 | Google GSuite |
+|                 | Photoshop  |
+|      	         | Gimp       |
+|                 |	Visio      |
+|                 |Google Analytics |
+|                 |Google Data Studio |
+							   						  
+</td></tr> </table>
+
+<table>
+ <tr><th> Leadership Skills </th></tr>
+<tr><td>
+
+| Characteristics |
+| --------- |
+|Easygoing|
+|Engaged|
+|Colaborative|
+|Focus on results|
+|Ethical|
+|Disciplined|
+|Detalist|
+
+</td></tr> </table>
+
 
 ## &#128220; Courses And Certificates
 
