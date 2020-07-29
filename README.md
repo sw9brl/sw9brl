@@ -25,7 +25,8 @@
 
 ## Tech Skills
 
-
+<p>
+<div align="left">
 | Frameworks      | Languages     | Others         | 
 | --------------  | ------------- | -------------  | 
 | Strapi          | Javascript    | HTML5          | 
@@ -35,3 +36,6 @@
 | Restfy          | F#  		        |					  
 | Adonis          | VB			         |				   
 | Angular         |								  
+</div>
+<div align="right">Teste</div>
+</p>
