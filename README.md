@@ -29,7 +29,7 @@
 
 
 <table>
- <tr><th> Tech Skills </th><th> Leadership Skills </th> <th> Personal Caracteristics </th></tr>
+ <tr><th> Tech Skills </th><th> Leadership Skills </th></tr>
 <tr><td>
 
 | Frameworks      | Languages     | Others         | 
@@ -43,7 +43,7 @@
 | Angular         |								  
 </td><td>
 
-| Personal Caracteristics |
+| Characteristics |
 | --------- |
 |Easygoing|
 |Engaged|
