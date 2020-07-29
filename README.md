@@ -31,18 +31,30 @@
 <table>
  <tr><th> Tech Skills </th><th> Leadership Skills </th></tr>
 <tr><td>
-| Frameworks      | Languages     | Others         |   IDE            |    Architecture - DevOps   |  SO             | Tools        |
-| --------------  | ------------- | -------------  |   -------------  |    -------------           |  -------------  | -------------  |
-| Strapi          | Javascript    | HTML5          |   Cloud 9        |    Docker                  |  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  |
-| Laravel         | NodeJs        | CSS            |   Visual Studio  |    Kubernets               | Linux           | Sharepoint            |
-| Zend Framework  | PHP           | Google Firebase|   Vscode         |    Microservices           |                 | Google GSuite |
-| Express         | C#			  |	Wordpress	   |   Atom           |    Serveless               |                 | Photoshop  |				   
-| Restfy          | F#  		  |	Magento	       |   Zend Studio    |    CI/CD                   |      	         | Gimp       |					  
-| Adonis          | VB			  |	Git	           |   Web Storm      |    IIS                     |                 |	Visio      |				   
-| Angular         |		          |  Svn           |                  |    Apache                  |                 |Google Analytics |
-|                 |               |  TFS           |                  |                            |                 |Google Data Studio |
-												   
-												   						  
+
+| Frameworks      | Languages     | Others         |   IDE            |    Architecture & DevOps   |
+| --------------  | ------------- | -------------  |   -------------  |    -------------           |
+| Strapi          | Javascript    | HTML5          |   Cloud 9        |    Docker                  |
+| Laravel         | NodeJs        | CSS            |   Visual Studio  |    Kubernets               |
+| Zend Framework  | PHP           | Google Firebase|   Vscode         |    Microservices           |
+| Express         | C#			  |	Wordpress	   |   Atom           |    Serveless               |
+| Restfy          | F#  		  |	Magento	       |   Zend Studio    |    CI/CD                   |
+| Adonis          | VB			  |	Git	           |   Web Storm      |    IIS                     |
+| Angular         |		          |  Svn           |                  |    Apache                  |
+|                 |               |  TFS           |                  |                            |
+
+
+|  SO             | Tools        |
+|  -------------  | -------------  |
+|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  |
+| Linux           | Sharepoint            |
+|                 | Google GSuite |
+|                 | Photoshop  |
+|      	         | Gimp       |
+|                 |	Visio      |
+|                 |Google Analytics |
+|                 |Google Data Studio |
+							   						  
 </td><td>
 
 | Characteristics |
