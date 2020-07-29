@@ -44,10 +44,10 @@
 |                 |               |  TFS           |                  |                            |
 
 
-|  SO             | Tools        |
-|  -------------  | -------------  |
-|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  |
-| Linux           | Sharepoint            |
+|  SO             | Tools        | Cloud |
+|  -------------  | -------------  | --------- |
+|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  | GCP - Google Cloud Platform |
+| Linux           | Sharepoint            | Apigee API Proxy |
 |                 | Google GSuite |
 |                 | Photoshop  |
 |      	         | Gimp       |
@@ -68,3 +68,13 @@
 |Detalist|
 
 </td></tr> </table>
+
+
+
+## &#9889; Latest Blog Posts 
+
+## &#127916; Latest Youtube Playlist
+
+
+
+
