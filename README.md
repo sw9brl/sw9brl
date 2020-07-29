@@ -23,7 +23,14 @@
 <br>
 <br>
 
-## Tech Skills
+## More About Me
+
+
+
+
+<table>
+ <tr><th> Tech Skills </th><th> Leadership Skills </th> <th> Personal Caracteristics </th></tr>
+<tr><td>
 
 | Frameworks      | Languages     | Others         | 
 | --------------  | ------------- | -------------  | 
@@ -34,3 +41,10 @@
 | Restfy          | F#  		        |					  
 | Adonis          | VB			         |				   
 | Angular         |								  
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
