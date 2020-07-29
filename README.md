@@ -71,6 +71,35 @@
 
 ## &#128220; Courses And Certificates
 
+1. MCP Windows Server Administrator
+2. SQL Server Database Administrator
+3. ITIL V3
+4. Project Management
+
+[GCP Developer Journey]
+
+1. Google Cloud Platform Fundamentals: Core Infrastructure
+2. Getting Started With Application Development
+3. Developing Applications with Google Cloud
+4. Securing and Integrating Components of your Application
+
+[GCP API Journey]
+
+1. API Design and Fundamentals of Google Cloud's Apigee API Platform
+2. API Development on Google Cloud's Apigee API PLatform
+3. API Security on Google Cloud's Apigee API Platform
+
+
+[GCP Architecture]
+
+1. Reliable Google Cloud Infrastructure: Design and Process
+
+
+[Certifications]
+
+- MCP Windows Server
+- Scrum Foundation Professional (SFP)
+
 
 ## &#9889; Latest Blog Posts 
 
