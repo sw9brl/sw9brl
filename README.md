@@ -15,7 +15,7 @@
 - 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
 
-- If you need help, please press this SOS Button <span style="font-size:5rem;">🆘</span> 😉. I'm happy to help 👊
+- If you need help, please press this SOS Button <a href="mailto:paulo.camargo@sw9.com.br"><span style='font-size:100px;'>&#127384;</span></a> 😉. I'm happy to help 👊
 
 - I 💗 my Job
 
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## More About Me
+## More About Me &#129409;
 
 
 
