@@ -1,7 +1,8 @@
 
 ## Hi there 👋, I'm Paulo From Brazil 🧑‍✈️
 
- <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face.png" align="left" width="200px" height="350x">
+ <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-right.png" align="left" width="200px" height="350x">
+ <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face-left.png" align="right" width="200px" height="350x">
 
 <h3>Bachelor of Computer Engineering</h3>
 
