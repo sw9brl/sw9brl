@@ -31,16 +31,18 @@
 <table>
  <tr><th> Tech Skills </th><th> Leadership Skills </th></tr>
 <tr><td>
-
-| Frameworks      | Languages     | Others         | 
-| --------------  | ------------- | -------------  | 
-| Strapi          | Javascript    | HTML5          | 
-| Laravel         | NodeJs        | CSS            | 
-| Zend Framework  | PHP           | Google Firebase| 
-| Express         | C#			         |				   
-| Restfy          | F#  		        |					  
-| Adonis          | VB			         |				   
-| Angular         |								  
+| Frameworks      | Languages     | Others         |   IDE            |    Architecture - DevOps   |  SO             | Tools        |
+| --------------  | ------------- | -------------  |   -------------  |    -------------           |  -------------  | -------------  |
+| Strapi          | Javascript    | HTML5          |   Cloud 9        |    Docker                  |  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  |
+| Laravel         | NodeJs        | CSS            |   Visual Studio  |    Kubernets               | Linux           | Sharepoint            |
+| Zend Framework  | PHP           | Google Firebase|   Vscode         |    Microservices           |                 | Google GSuite |
+| Express         | C#			  |	Wordpress	   |   Atom           |    Serveless               |                 | Photoshop  |				   
+| Restfy          | F#  		  |	Magento	       |   Zend Studio    |    CI/CD                   |      	         | Gimp       |					  
+| Adonis          | VB			  |	Git	           |   Web Storm      |    IIS                     |                 |	Visio      |				   
+| Angular         |		          |  Svn           |                  |    Apache                  |                 |Google Analytics |
+|                 |               |  TFS           |                  |                            |                 |Google Data Studio |
+												   
+												   						  
 </td><td>
 
 | Characteristics |
