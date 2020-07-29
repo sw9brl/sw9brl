@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Paulo
+## Hi there 👋, I'm Paulo From Brazil 🧑‍✈️
 
  <img alt="My Avatar Face" src="https://github.com/sw9brl/sw9brl/blob/master/face.png" align="left" width="200px" height="350x">
 
@@ -15,7 +15,7 @@
 - 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
 
-- If you need help, please press this SOS Button 🆘 😉. I'm happy to help 👊
+- If you need help, please press this SOS Button <div style="font-size:5rem;width:100%;text-align:center;">🆘</div> 😉. I'm happy to help 👊
 
 - I 💗 my Job
 
@@ -43,8 +43,12 @@
 | Angular         |								  
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|Easygoing|
+|Engaged|
+|Colaborative|
+|Focus on results|
+|Ethical|
+|Disciplined|
+|Detalist|
 
 </td></tr> </table>
