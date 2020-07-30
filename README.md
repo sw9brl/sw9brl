@@ -109,8 +109,14 @@
 
 ## &#9889; Latest Blog Posts 
 
+- [HTML5 Video e Audio | Reproduzindo Video e Audio de Forma Nativa](http://blog.sw9.com.br/2019/11/27/html5-video-audio-forma-nativa-serie-html5-sw9/)
+- [HTML5 Data Attribute | Utilizando Atributos Customizados](http://blog.sw9.com.br/2019/11/14/html5-data-attribute-utilizando-atributos-customizados-serie-html5-sw9/)
+
 ## &#127916; Latest Youtube Playlist
 
+- [HTML5 Journey](https://www.youtube.com/watch?v=D-XN-miEwP0&list=PLtluGZbI5ESj8XWTJcJmrVW6Q_tCi7uR8)
+- [Strapi API Journey](https://www.youtube.com/watch?v=9GAl1nlNcbo&list=PLtluGZbI5ESiFrDDnKmwJNdrKZKI-hECj)
+- [Google Way | Building a Form Field Similar To Google](https://www.youtube.com/watch?v=Uw-S4uCY3Zk&list=PLtluGZbI5ESjOwYr3mP_7Si0tQzRnF5P2)
 
 ## Fell Free To Support Me &#9749;
 
