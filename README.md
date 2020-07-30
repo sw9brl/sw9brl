@@ -50,7 +50,7 @@
 | Onsen UI        | Angular		          |  Svn           |                  |    Apache                  |
 | BootStrap                |               |  TFS           |                  |                            |
 | Jest And Jasmine |
-| 
+
 
 
 |  SO             | Tools        | Cloud | IDE |
