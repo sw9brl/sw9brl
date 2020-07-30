@@ -14,7 +14,7 @@
 </div>
 
 
-- 🔭 I’m currently learning and teaching things about web development, hybrid mobile development and APIs Rest
+- 🔭 I’m currently teaching/sharing things about web development, hybrid mobile development and APIs Rest
 - 📚 I’m currently learning more about GCP - Google Cloud Platform, Microservices and Architecture
 - 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
 - 👀 I'd like to have more free time to study about Puppeteer, Robot Framework and LoopBack Framework
