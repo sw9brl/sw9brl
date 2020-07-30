@@ -62,15 +62,9 @@
  <tr><th> Leadership Skills </th></tr>
 <tr><td>
 
-| Characteristics |
-| --------- |
-|Easygoing|
-|Engaged|
-|Colaborative|
-|Focus on results|
-|Ethical|
-|Disciplined|
-|Detalist|
+|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Detalist|
+|---|---|---|---|---|---|---|
+
 
 </td></tr> </table>
 
