@@ -19,6 +19,9 @@
 - 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
 - 👀 I'd like to have more free time to study about Puppeteer, Robot Framework and LoopBack Framework
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
+
+<br><br>
+
 - If you need help, please press this SOS Button <a href="mailto:paulo.camargo@sw9.com.br"><span style='font-size:100px;'>&#127384;</span></a> 😉. I'm happy to help 👊
 
 - I 💗 my Job
