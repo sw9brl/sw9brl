@@ -47,7 +47,7 @@
 | Express         | C#			  |	Wordpress	 |    Serveless               | MongoDB |
 | Restfy          | F#  		  |	Magento	       |    CI/CD                   | Firebase Datastore And Firestore |
 | Adonis          | VB			  |	Git	           |    IIS                     |
-| Onsen UI        | Angular		          |  Svn           |                  |    Apache                  |
+| Onsen UI        | Angular		          |  Svn           |     Apache              |                     |
 | BootStrap                |               |  TFS           |                  |                            |
 | Jest And Jasmine |
 
@@ -94,7 +94,7 @@
 [GCP API Journey]
 
 1. API Design and Fundamentals of Google Cloud's Apigee API Platform
-2. API Development on Google Cloud's Apigee API PLatform
+2. API Development on Google Cloud's Apigee API Platform
 3. API Security on Google Cloud's Apigee API Platform
 
 
