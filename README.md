@@ -62,8 +62,8 @@
  <tr><th> Leadership Skills </th></tr>
 <tr><td>
 
-|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Detalist|
-|---|---|---|---|---|---|---|
+|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Responsibility|Autodidact|
+|---|---|---|---|---|---|---|---|
 
 
 </td></tr> </table>
