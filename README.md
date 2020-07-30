@@ -39,30 +39,30 @@
  <tr><th> Tech Skills </th></tr>
 <tr><td>
 
-| Frameworks      | Languages     | Others         |   IDE            |    Architecture & DevOps   | Database |
-| --------------  | ------------- | -------------  |   -------------  |    -------------           | ---------- |
-| Strapi          | Javascript    | HTML5          |   Cloud 9        |    Docker                  | SQL Server |
-| Laravel         | NodeJs        | CSS            |   Visual Studio  |    Kubernets               | MySQL      | 
-| Zend Framework  | PHP           | Google Firebase|   Vscode         |    Microservices           | Oracle     |
-| Express         | C#			  |	Wordpress	   |   Atom           |    Serveless               | MongoDB |
-| Restfy          | F#  		  |	Magento	       |   Zend Studio    |    CI/CD                   | Firebase Datastore And Firestore |
-| Adonis          | VB			  |	Git	           |   Web Storm      |    IIS                     |
+| Frameworks      | Languages     | Others         |    Architecture & DevOps   | Database |
+| --------------  | ------------- | -------------   |    -------------           | ---------- |
+| Strapi          | Javascript    | HTML5          |    Docker                  | SQL Server |
+| Laravel         | NodeJs        | CSS            |    Kubernets               | MySQL      | 
+| Zend Framework  | PHP           | Google Firebase |    Microservices           | Oracle     |
+| Express         | C#			  |	Wordpress	 |    Serveless               | MongoDB |
+| Restfy          | F#  		  |	Magento	       |    CI/CD                   | Firebase Datastore And Firestore |
+| Adonis          | VB			  |	Git	           |    IIS                     |
 | Onsen UI        | Angular		          |  Svn           |                  |    Apache                  |
 | BootStrap                |               |  TFS           |                  |                            |
 | Jest And Jasmine |
 | 
 
 
-|  SO             | Tools        | Cloud |
-|  -------------  | -------------  | --------- |
-|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  | GCP - Google Cloud Platform |
-| Linux           | Sharepoint            | Apigee API Proxy |
-|                 | Google GSuite |
-|                 | Photoshop  |
-|      	         | Gimp       |
-|                 |	Visio      |
-|                 |Google Analytics |
-|                 |Google Data Studio |
+|  SO             | Tools        | Cloud | IDE |
+|  -------------  | -------------  | --------- | --------- |
+|  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  | GCP - Google Cloud Platform | Visual Studio |
+| Linux           | Sharepoint            | Apigee API Proxy | VsCode |
+|                 | Google GSuite | | Atom |
+|                 | Photoshop  | | Zend Studio |
+|      	         | Gimp       | |Web Storm |
+|                 |	Visio     | | Eclipse |
+|                 |Google Analytics | | StackBlitz |
+|                 |Google Data Studio | | Cloud 9 |
 							   						  
 </td></tr> </table>
 
