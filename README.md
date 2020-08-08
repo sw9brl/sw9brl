@@ -47,10 +47,11 @@
 | Express         | C#			  |	Wordpress	 |    Serveless               | MongoDB |
 | Restfy          | F#  		  |	Magento	       |    CI/CD                   | Firebase Datastore And Firestore |
 | Adonis          | VB			  |	Git	           |    IIS                     |
-| Onsen UI        | Angular		          |  Svn           |     Apache              |                     |
+| Onsen UI        | 		          |  Svn           |     Apache              |                     |
 | BootStrap                |               |  TFS           |                  |                            |
 | Jest And Jasmine |
-
+| Angular |
+| Electron |
 
 
 |  SO             | Tools        | Cloud | IDE |
@@ -67,11 +68,11 @@
 </td></tr> </table>
 
 <table>
- <tr><th> Leadership Skills </th></tr>
+ <tr><th> Personal Skills </th></tr>
 <tr><td>
 
-|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Responsibility|Autodidact|
-|---|---|---|---|---|---|---|---|
+|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Responsibility|Autodidact|Commitment|Honesty|Resilient|
+|---|---|---|---|---|---|---|---|---|---|---|
 
 
 </td></tr> </table>
