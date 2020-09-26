@@ -108,6 +108,7 @@
 
 - MCP Windows Server
 - Scrum Foundation Professional (SFP)
+- DevOps Essentials Professional Certificate (DEPCP)
 
 
 ## &#9889; Latest Blog Posts 
