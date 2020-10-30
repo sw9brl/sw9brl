@@ -98,17 +98,20 @@
 2. API Development on Google Cloud's Apigee API Platform
 3. API Security on Google Cloud's Apigee API Platform
 
-
 [GCP Architecture]
 
 1. Reliable Google Cloud Infrastructure: Design and Process
 
+[Badges and Quests]
+
+[Google-Qwiklabs](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
 
 [Certifications]
 
 - MCP Windows Server
 - Scrum Foundation Professional (SFP)
 - DevOps Essentials Professional Certificate (DEPCP)
+
 
 
 ## &#9889; Latest Blog Posts 
