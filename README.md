@@ -68,7 +68,7 @@
 </td></tr> </table>
 
 <table>
- <tr><th> Personal Skills </th></tr>
+ <tr><th> Soft Skills </th></tr>
 <tr><td>
 
 |Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Responsibility|Autodidact|Commitment|Honesty|Resilient|
