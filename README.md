@@ -98,9 +98,13 @@
 2. API Development on Google Cloud's Apigee API Platform
 3. API Security on Google Cloud's Apigee API Platform
 
-[GCP Architecture]
+[GCP Architecture Journey]
 
 1. Reliable Google Cloud Infrastructure: Design and Process
+2. Google Cloud Platform Fundamentals: Core Infrastructure
+3. Essential Google Cloud Infrastructure: Foundation
+4. Essential Google Cloud Infrastructure: Core Services
+5. Elastic Google Cloud Infrastructure: Scaling and Automation
 
 [Badges and Quests]
 
