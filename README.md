@@ -78,7 +78,7 @@
 </td></tr> </table>
 
 
-## &#128220; Courses And Certificates
+# &#128220; Courses And Certificates
 
 1. MCP Windows Server Administrator
 2. SQL Server Database Administrator
@@ -114,7 +114,7 @@
 
 [Google-Qwiklabs](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
 
-[Certifications]
+# Certifications
 
 - MCP Windows Server
 - [Scrum Foundation Professional (SFP)](https://www.credly.com/badges/7c424648-60f3-46b8-ba61-8b639ea59c3f/public_url)
