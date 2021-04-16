@@ -84,21 +84,25 @@
 2. SQL Server Database Administrator
 3. ITIL V3
 4. Project Management
+5. Gitlab 
+ - [GitLab 101 Trainning](https://drive.google.com/file/d/1gmOq94r9daQFq1t8BrmFuXigIn9KOhsS/view?usp=sharing)
+ - [GitLab 201 Trainning](https://drive.google.com/file/d/18jFwMYHBIcZEajPt7cYP1DCUUwJb3Bl1/view?usp=sharing)
+6. GCP - Google Cloud Platform
 
-[GCP Developer Journey]
+### GCP Developer Journey
 
 1. Google Cloud Platform Fundamentals: Core Infrastructure
 2. Getting Started With Application Development
 3. Developing Applications with Google Cloud
 4. Securing and Integrating Components of your Application
 
-[GCP API Journey]
+### GCP API Journey
 
 1. API Design and Fundamentals of Google Cloud's Apigee API Platform
 2. API Development on Google Cloud's Apigee API Platform
 3. API Security on Google Cloud's Apigee API Platform
 
-[GCP Architecture Journey]
+### GCP Architecture Journey
 
 1. Reliable Google Cloud Infrastructure: Design and Process
 2. Google Cloud Platform Fundamentals: Core Infrastructure
@@ -106,15 +110,16 @@
 4. Essential Google Cloud Infrastructure: Core Services
 5. Elastic Google Cloud Infrastructure: Scaling and Automation
 
-[Badges and Quests]
+### Badges And Quests And Courses From Qwiklabs
 
 [Google-Qwiklabs](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
 
 [Certifications]
 
 - MCP Windows Server
-- Scrum Foundation Professional (SFP)
-- DevOps Essentials Professional Certificate (DEPCP)
+- [Scrum Foundation Professional (SFP)](https://www.credly.com/badges/7c424648-60f3-46b8-ba61-8b639ea59c3f/public_url)
+- [DevOps Essentials Professional Certificate (DEPCP)](https://www.credly.com/badges/9cae7352-d48e-46c7-a351-b482d2cbf27c/public_url)
+- [Astronomer Certification for Apache Airflow](https://www.credly.com/badges/b9b7c839-bd90-42bd-a384-aa94ba4cc606/public_url)
 
 
 
