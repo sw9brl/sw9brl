@@ -22,7 +22,7 @@
 
 <br><br>
 
-- If you need help, please press this SOS Button <a href="mailto:paulo.camargo@sw9.com.br"><span style='font-size:100px;'>&#127384;</span></a> 😉. I'm happy to help 👊
+- If you need help, please press the SOS Button <a href="mailto:paulo.camargo@sw9.com.br"><span style='font-size:100px;'>&#127384;</span></a> 😉. Glad to help 👊
 
 - I 💗 my Job
 
