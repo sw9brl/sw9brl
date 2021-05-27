@@ -122,6 +122,12 @@
 - [Astronomer Certification for Apache Airflow](https://www.credly.com/badges/b9b7c839-bd90-42bd-a384-aa94ba4cc606/public_url)
 
 
+# Books Read 
+
+### 2021
+- How to Train Your Mind: Exploring the Productivity Benefits of Meditation
+- The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
+
 
 ## &#9889; Latest Blog Posts 
 
