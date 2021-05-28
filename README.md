@@ -67,15 +67,9 @@
 							   						  
 </td></tr> </table>
 
-<table>
- <tr><th> Soft Skills </th></tr>
-<tr><td>
+# Soft Skills
 
-|Easygoing|Engaged|Colaborative|Focus on results|Ethical|Disciplined|Responsibility|Autodidact|Commitment|Honesty|Resilient|
-|---|---|---|---|---|---|---|---|---|---|---|
-
-
-</td></tr> </table>
+![Soft Skills](./images/soft-skills.svg)
 
 
 # &#128220; Courses And Certificates
