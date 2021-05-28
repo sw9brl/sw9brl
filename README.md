@@ -67,7 +67,7 @@
 							   						  
 </td></tr> </table>
 
-# Soft Skills
+# 🙏 Soft Skills
 
 ![Soft Skills](./images/soft-skills.svg)
 
