@@ -14,8 +14,8 @@
 </div>
 
 
-- 🔭 I’m currently teaching/sharing things about web development, hybrid mobile development and APIs Rest
-- 📚 I’m currently learning more about GCP - Google Cloud Platform, Microservices and Architecture
+- 🔭 I’m currently teaching/sharing things about web development, hybrid mobile development and APIs/Microservices
+- 📚 I’m currently learning more about GCP (Google Cloud Platform) deep diving in Architecture using Compute Engine and Kubernetes, Apigee, Data Engineering, Anthos/Istio Service Mesh and Developing Apps using GCP.
 - 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
 - 👀 I'd like to have more free time to study about Puppeteer, Robot Framework and LoopBack Framework
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
@@ -116,11 +116,12 @@
 - [Astronomer Certification for Apache Airflow](https://www.credly.com/badges/b9b7c839-bd90-42bd-a384-aa94ba4cc606/public_url)
 
 
-# Books Read 
+# Books I have already read
 
 ### 2021
 - How to Train Your Mind: Exploring the Productivity Benefits of Meditation
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
+- Reading: Managers as Mentors: Building Partnerships for Learning (Third Edition)
 
 
 ## &#9889; Latest Blog Posts 
@@ -133,6 +134,11 @@
 - [HTML5 Journey](https://www.youtube.com/watch?v=D-XN-miEwP0&list=PLtluGZbI5ESj8XWTJcJmrVW6Q_tCi7uR8)
 - [Strapi API Journey](https://www.youtube.com/watch?v=9GAl1nlNcbo&list=PLtluGZbI5ESiFrDDnKmwJNdrKZKI-hECj)
 - [Google Way | Building a Form Field Similar To Google](https://www.youtube.com/watch?v=Uw-S4uCY3Zk&list=PLtluGZbI5ESjOwYr3mP_7Si0tQzRnF5P2)
+
+## What my audience is saying ...
+
+
+
 
 ## Fell Free To Support Me &#9749;
 
