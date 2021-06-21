@@ -137,6 +137,32 @@
 
 ## What my audience is saying ...
 
+![image](https://user-images.githubusercontent.com/19518205/122835801-6c2ac800-d2c7-11eb-9fc3-df5471548006.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122835859-8795d300-d2c7-11eb-86c7-eea6e410fa91.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122835914-a1371a80-d2c7-11eb-8b23-9f5ef1487f5e.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122835974-ba3fcb80-d2c7-11eb-92c9-468c64c3c013.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836016-d2174f80-d2c7-11eb-88b6-46e9f73ae2c9.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836088-f96e1c80-d2c7-11eb-9008-fca10b7faebb.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836206-320df600-d2c8-11eb-9a54-61fa2b2bcd89.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836264-49e57a00-d2c8-11eb-80e3-65945dd64294.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836311-62ee2b00-d2c8-11eb-9d8e-f036423a235a.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836364-7ef1cc80-d2c8-11eb-8a44-37a748357525.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836654-07706d00-d2c9-11eb-9f1b-fb353b903fad.png)
+
+![image](https://user-images.githubusercontent.com/19518205/122836757-47375480-d2c9-11eb-8e80-2f091003461b.png)
+
+
+
 
 
 
