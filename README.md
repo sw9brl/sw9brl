@@ -58,12 +58,13 @@
 |  -------------  | -------------  | --------- | --------- |
 |  Windows Server | Atlassian Stack  (Jira, Confluence, Bamboo, Bitbucket)  | GCP - Google Cloud Platform | Visual Studio |
 | Linux           | Sharepoint            | Apigee API Proxy | VsCode |
-|                 | Google GSuite | | Atom |
+|                 | Google Workspace | | Atom |
 |                 | Photoshop  | | Zend Studio |
 |      	         | Gimp       | |Web Storm |
 |                 |	Visio     | | Eclipse |
 |                 |Google Analytics | | StackBlitz |
 |                 |Google Data Studio | | Cloud 9 |
+|                 |GitLab | | 
 							   						  
 </td></tr> </table>
 
