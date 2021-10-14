@@ -121,6 +121,7 @@
 - [Scrum Foundation Professional (SFP)](https://www.credly.com/badges/7c424648-60f3-46b8-ba61-8b639ea59c3f/public_url)
 - [DevOps Essentials Professional Certificate (DEPCP)](https://www.credly.com/badges/9cae7352-d48e-46c7-a351-b482d2cbf27c/public_url)
 - [Astronomer Certification for Apache Airflow](https://www.credly.com/badges/b9b7c839-bd90-42bd-a384-aa94ba4cc606/public_url)
+- [Fundamentos Na Lei Geral De Proteção De Dados - LGPDF](https://www.credly.com/badges/cd68a81a-922e-4a5d-84dc-e7b02cc70a4a/public_url)
 
 
 # Books I have already read
