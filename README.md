@@ -111,9 +111,18 @@
 2. [Architecting with Google Kubernetes Engine - Workloads](https://googlecourses.qwiklabs.com/course_templates/34)
 3. [Architecting with Google Kubernetes Engine - Production](https://googlecourses.qwiklabs.com/course_templates/33)
 
+### GCP Data Engineer
+
+1. [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1718065)
+2. [Google Cloud Big Data and Machine Learning Fundamentals](https://www.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1626772)
+
 ### Badges And Quests And Courses From Qwiklabs
 
 [Google-Qwiklabs](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
+
+### Google Developers Profile
+
+[Profile Public Link](https://developers.google.com/profile/u/114802070686575818444?authuser=0)
 
 # Certifications
 
