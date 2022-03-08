@@ -138,7 +138,10 @@
 ### 2021
 - How to Train Your Mind: Exploring the Productivity Benefits of Meditation
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
-- Reading: Managers as Mentors: Building Partnerships for Learning (Third Edition)
+
+# TED Talks
+
+- [Serie Think Like a Coder](https://www.ted.com/talks/alex_rosenthal_the_prison_break_think_like_a_coder_ep_1)
 
 
 ## &#9889; Latest Blog Posts 
