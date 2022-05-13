@@ -91,7 +91,7 @@
 3. Developing Applications with Google Cloud
 4. Securing and Integrating Components of your Application
 
-### GCP API Journey
+### GCP API Journey + Apigee Proxy API
 
 1. API Design and Fundamentals of Google Cloud's Apigee API Platform
 2. API Development on Google Cloud's Apigee API Platform
@@ -115,10 +115,12 @@
 
 1. [Modernizing Data Lakes and Data Warehouses with Google Cloud](https://www.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1718065)
 2. [Google Cloud Big Data and Machine Learning Fundamentals](https://www.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1626772)
+3. [Building Resilient Streaming Analytics Systems on Google Cloud](https://partner.cloudskillsboost.google/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1892521)
+4. [Smart Analytics, Machine Learning, and AI on Google Cloud](https://partner.cloudskillsboost.google/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1980605)
 
 ### Badges And Quests And Courses From Qwiklabs
 
-[Google-Qwiklabs](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
+[Google-Qwiklabs-Public-Profile](https://googlecourses.qwiklabs.com/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
 
 ### Google Developers Profile
 
