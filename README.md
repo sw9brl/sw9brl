@@ -107,7 +107,7 @@
 
 ### GCP Architecture Kubernets Engine
 
-1. [Architecting with Google Kubernetes Engine - Foundations](https://googlecourses.qwiklabs.com/public_profiles/3aefa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1119582)
+1. [Architecting with Google Kubernetes Engine - Foundations](https://partner.cloudskillsboost.google/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb/badges/1119582)
 2. [Architecting with Google Kubernetes Engine - Workloads](https://googlecourses.qwiklabs.com/course_templates/34)
 3. [Architecting with Google Kubernetes Engine - Production](https://googlecourses.qwiklabs.com/course_templates/33)
 
