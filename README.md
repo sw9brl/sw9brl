@@ -165,6 +165,14 @@
 - [Learning Data Science: Understanding the Basics](https://www.linkedin.com/learning/certificates/b38616b0e9567a40ed9f8afe7b57eb3815510d245ad2625afc0d8e5d1df4d58b)
 - [Liderança com Inteligência Emocional](https://www.linkedin.com/learning/certificates/75716caea6d5e9d902dcb897a7598020c707920324a8e481cee9dbb0871373d4?u=59368116)
 
+
+### Datacamp
+
+- [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/1e0227bb5f63c1d3d32ee33249280f738a41c099)
+- [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/4e01ba37e7f968bfe4e003f66cdbcdd219c8bb85)
+- [Intermediate Python](https://www.datacamp.com/statement-of-accomplishment/course/3a87374d1302af7b846a3d8bb937f64468e9e23c)
+- [Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/4195ba1b6a1dec8aca68f39400ca3da87db92876)
+
 # Certifications
 
 - MCP Windows Server
