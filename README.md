@@ -168,6 +168,7 @@
 
 ### Datacamp
 
+- [Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/11ed8a17f73b451e88ac1d09d4025b55846fb4d4)
 - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/224d5c135f9a12895e4e25b3c3d8975a32448137)
 - [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/0e26ec8bb2e557a3bb3e6384b8f573a5ce5229ae)
 - [Understanding Data Visualization](https://www.datacamp.com/statement-of-accomplishment/course/8a5b982d0a62c2e7dfe70616ab9da509a8a78885)
