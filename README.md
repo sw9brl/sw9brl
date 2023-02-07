@@ -242,7 +242,7 @@
 
 
 
-## Fell Free To Support Me &#9749;
+## Feel Free To Support Me &#9749;
 
 [<img src="https://github.com/sw9brl/sw9brl/blob/master/paypal-donate-button.jpg" />](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=contato%40sw9.com.br&item_name=Support+Me&currency_code=USD&source=url)
 
