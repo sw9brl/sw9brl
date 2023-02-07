@@ -188,9 +188,12 @@
 
 # Books I have already read
 
-### 2021
+
 - How to Train Your Mind: Exploring the Productivity Benefits of Meditation
 - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
+- Soft Skills
+- 40 Hábitos Financeiros para uma vida melhor
+
 
 # TED Talks
 
