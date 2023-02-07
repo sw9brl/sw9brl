@@ -16,8 +16,8 @@
 
 - 🔭 I’m currently teaching/sharing things about web development, hybrid mobile development and APIs/Microservices
 - 📚 I’m currently learning more about GCP (Google Cloud Platform) deep diving in Architecture using Compute Engine and Kubernetes, Apigee, Data Engineering, Anthos/Istio Service Mesh and Developing Apps using GCP.
-- 💪 I’m preparing to be a Google Cloud Certified and a Scrum Master Certified (PSM)
-- 👀 I'd like to have more free time to study about Puppeteer, Robot Framework and LoopBack Framework
+- 💪 Saving some minutes every day to learn using platformas like: Datacamp, Hackerank, Immersive labs (security training platform), Linkedin learning and QwickLabs;
+- 👀 In progress: Course CS50: Compuer Science - MIT Harvard School
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
 
 <br><br>
