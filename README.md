@@ -17,7 +17,7 @@
 - 🔭 Teaching and sharing things about web development, hybrid mobile development and APIs/Microservices using my blog and youtube channel;
 - 📚 I’m currently learning more about GCP (Google Cloud Platform) deep diving in Architecture using Compute Engine and Kubernetes, Firebase, Apigee, Data Engineering, Anthos/Istio Service Mesh and Developing Apps using GCP;
 - 💪 Saving some minutes every day for continuous learning: Datacamp, HackerRank, Immersive labs (security training platform), Linkedin learning and QwickLabs;
-- 👀 In progress: Course CS50 | Computer Science - MIT Harvard School;
+- 👀 Course CS50 | Computer Science - MIT Harvard School;
 - 📫 Fell Free To Reach Me: <a href="mailto:paulo.camargo@sw9.com.br">paulo.camargo@sw9.com.br</a>
 
 <br><br>
