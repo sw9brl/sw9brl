@@ -22,6 +22,13 @@
 
 <br><br>
 
+<br><br>
+
+## Profiles
+
+- [Google CLoud](https://partner.cloudskillsboost.google/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
+- [Datacamp](https://www.datacamp.com/portfolio/paulodecamargo)
+   
 - If you need help, please press the SOS Button <a href="mailto:paulo.camargo@sw9.com.br"><span style='font-size:100px;'>&#127384;</span></a> 😉. Glad to help 👊
 
 - I 💗 my Job
