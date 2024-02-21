@@ -26,13 +26,13 @@
 
 - I 💗 my Job
 
-<br>
-<br>
+<br><br>
 
 ### Public Profile
 
 - [Google Cloud](https://partner.cloudskillsboost.google/public_profiles/3efa5127-78f5-40fd-b04d-2d434a4d2fdb)
 - [Datacamp](https://www.datacamp.com/portfolio/paulodecamargo)
+- [Google For Developers](https://developers.google.com/profile/u/114802070686575818444)
 
 # More About Me &#129409;
 
