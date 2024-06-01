@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/blog-%23239120.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](http://blog.sw9.com.br)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedecamargo/?locale=en_US)
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5519993481780?text=Hi!Paulo)
-[<img src="https://github.com/sw9brl/sw9brl/blob/master/qrcodechef.svg" alt="QR Code Chef"/>](https://qrcodechef.com)
+[<img src="https://github.com/sw9brl/sw9brl/blob/master/images/qrcodechef-yellow.svg" widht="30px" height="30px" alt="QR Code Chef"/>](https://qrcodechef.com)
 
 </div>
 
